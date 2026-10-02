@@ -1,1 +1,4 @@
 secreto.txt
+*.log
+.env
+node_modules/
