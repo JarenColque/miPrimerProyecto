@@ -1,5 +1,5 @@
 # Mi primer proyecto 
-Estoy aprendiendo Git y Github con Platzi
+Estoy aprendiendo Git y GitHub con Platzi desde la rama main.
 
 Estoy practicando Git paso a paso.
 
