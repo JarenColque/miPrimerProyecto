@@ -1,5 +1,5 @@
 # Mi primer proyecto 
-Estoy aprendiendo Git y Github con Platzi
+Estoy aprendiendo Git y GitHub con Platzi. Estoy practicando conflictos de merge.
 
 Estoy practicando Git paso a paso.
 
@@ -10,3 +10,5 @@ Estoy trabajando en una nueva funcionalidad.
 Este cambio fue realizado directamente desde GitHub.
 
 Este cambio fue realizado desde el repositorio clonado.
+
+Esta funcionalidad fue desarrollada en una rama independiente.
