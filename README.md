@@ -12,3 +12,5 @@ Este cambio fue realizado directamente desde GitHub.
 Este cambio fue realizado desde el repositorio clonado.
 
 Esta funcionalidad fue desarrollada en una rama independiente.
+
+Estoy practicando el trabajo con ramas remotas en GitHub.
